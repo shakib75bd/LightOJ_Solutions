@@ -12,10 +12,10 @@ typedef long long int ll;
 #define yes         cout<<"Yes\n"
 #define no          cout<<"No\n"
 
-// Well, Firstly we need to find out the angel for every small ball
+// Well, Firstly we need to find out the angle for every small ball
 // I mean the angle of the small arcs.
-// Then we can easily divide it into two arcs and by adding a vertical
-// height . Then, we just need to imagine a Right angled triangle
+// Then we can easily divide it into two arcs.  And by adding a vertical
+// height , we just need to imagine a Right angled triangle
 // and apply its rule with sin. Thats all
 
 
